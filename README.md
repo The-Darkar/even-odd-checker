@@ -14,5 +14,5 @@ Programa em Python que solicita ao usuário um número inteiro entre 1 e 1000 e 
 ## Como executar
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/<seu-usuario>/even-odd-checker.git
+   git clone https://github.com/The-Darkar/even-odd-checker.git
    cd even-odd-checker
